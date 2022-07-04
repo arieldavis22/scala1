@@ -2,4 +2,8 @@ package playground
 
 object Playground {
 
+  def main(args: Array[String]): Unit = {
+    println("Im ready to learn Scala")
+    println("hello world!")
+  }
 }
